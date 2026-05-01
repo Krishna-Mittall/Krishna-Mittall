@@ -83,7 +83,7 @@ Area	Status	Details
 
 
   <!-- Footer -->
-<sub><a href="https://gprm.itsvg.in"> | <a href="https://github.com/Krishna-Mittall">
+<sub><a href="https://github.com/Krishna-Mittall"> Keep Coding </a> >
   <!-- Animated Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer"/>
 </div>
