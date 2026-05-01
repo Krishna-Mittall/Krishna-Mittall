@@ -15,7 +15,8 @@
   </a>
 </div>
 🙋‍♂️ About Me
-
+yaml
+Copy
 name: Krishna Mittal
 role: BTech CSE Student
 passion: ["Java", "DSA", "Problem Solving"]
@@ -79,12 +80,8 @@ Area	Status	Details
 🤝 Open to	Yes	Collaborations, Open Source, Internships
 📈 Coding Activity
 <div align="center">
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna-Mittall/Krishna-Mittall/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna-Mittall/Krishna-Mittall/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Krishna-Mittall/Krishna-Mittall/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <!-- 3D Contribution Calendar -->
+  <img src="https://github-readme-3d-contrib.vercel.app/?username=Krishna-Mittall&theme=dark&no-bg=false&no-frame=false" alt="3D Contribution Calendar" width="100%"/>
 </div>
 <div align="center">
   <!-- Profile Views Counter -->
