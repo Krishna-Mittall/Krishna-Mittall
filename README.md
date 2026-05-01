@@ -15,8 +15,7 @@
   </a>
 </div>
 🙋‍♂️ About Me
-yaml
-Copy
+
 name: Krishna Mittal
 role: BTech CSE Student
 passion: ["Java", "DSA", "Problem Solving"]
@@ -78,18 +77,13 @@ Area	Status	Details
 🌱 Learning	Active	Spring Boot, REST APIs, System Design
 💼 Goal	Target	High-Impact Backend Developer Role
 🤝 Open to	Yes	Collaborations, Open Source, Internships
-📈 Coding Activity
-<div align="center">
-  <!-- 3D Contribution Calendar -->
-  <img src="https://github-readme-3d-contrib.vercel.app/?username=Krishna-Mittall&theme=dark&no-bg=false&no-frame=false" alt="3D Contribution Calendar" width="100%"/>
-</div>
 <div align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Krishna-Mittall&icon=0&color=0" alt="Profile Views"/>
 
 
   <!-- Footer -->
-<sub><a href="https://gprm.itsvg.in"> | Keep coding, keep growing 🌱
+<sub><a href="https://gprm.itsvg.in"> | <a href="https://github.com/Krishna-Mittall">
   <!-- Animated Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer"/>
 </div>
