@@ -15,8 +15,7 @@
   </a>
 </div>
 🙋‍♂️ About Me
-yaml
-Copy
+
 name: Krishna Mittal
 role: BTech CSE Student
 passion: ["Java", "DSA", "Problem Solving"]
