@@ -7,8 +7,8 @@
 
 
   <!-- Social Badges -->
-  <a href="https://instagram.com/k.r.i.s.h.n.a._08">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/krishna-mittal-5b71922b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:krishnamittal9691@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
