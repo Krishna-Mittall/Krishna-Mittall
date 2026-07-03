@@ -78,8 +78,7 @@ Area	Status	Details
 💼 Goal	Target	High-Impact Backend Developer Role
 🤝 Open to	Yes	Collaborations, Open Source, Internships
 <div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Krishna-Mittall&icon=0&color=0" alt="Profile Views"/>
+
 
 
   <!-- Footer -->
