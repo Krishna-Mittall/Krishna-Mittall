@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Krishna%20Mittal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BTech%20CSE%20%7C%20Java%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Krishna%20Mittal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BTech%20CSE%20%7C%20Software%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" alt="header"/>
 
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Passionate+about+Java+%E2%98%95;DSA+%26+Problem+Solving+%F0%9F%94%A5;Building+Strong+Fundamentals+%F0%9F%93%9A;Aiming+to+be+a+High-Impact+Developer+%F0%9F%9A%80" alt="Typing SVG" />
